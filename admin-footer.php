@@ -26,7 +26,7 @@ if ( !defined('ABSPATH') )
 	?>
 	<p id="footer-left" class="alignleft">
 		<?php
-		$text = sprintf( __( 'Thank you for creating with <a href="%s">WordPress</a>.' ), __( 'https://wordpress.org/' ) );
+		$text = sprintf( __( 'Thank you for creating with <a href="%s">PathToExcel</a>.' ), __( 'http://pathtoexcel.com/' ) );
 		/**
 		 * Filter the "Thank you" text displayed in the admin footer.
 		 *
